@@ -19,8 +19,10 @@ I am a Computer Applications post graduate from GHRCEM, Nagpur. Data Analyst wit
 
 As a person who loves to learn, I continually attempt to embrace new technologies & practices, as data analytics is a changing universe .
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://ritikaparate17.github.io/)
+To get in touch with me :
+Email: ritikaparate2002@gmail.com, ritikaparate21@gmail.com
+Contact: 9158545579
+
       
 ## 🔭 What I'm Currently Working On 
 
@@ -33,7 +35,7 @@ As a person who loves to learn, I continually attempt to embrace new technologie
 
 ## 🛠️ Technical Skillset
 
-Languages: Python, Database: SQL (MySQL), Data Analysis Tools: Power BI, MS-Excel
+<b>Languages: Python, Database: SQL (MySQL), Data Analysis Tools: Power BI, MS-Excel</b>
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
 #### Data Analysis & Visualization
@@ -41,7 +43,7 @@ Languages: Python, Database: SQL (MySQL), Data Analysis Tools: Power BI, MS-Exce
   <!-- 💡 Go to Shields.io to create your own badges -->
   <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
   <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Intermediate-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
+  <img src="https://img.shields.io/badge/Excel-Intermediate-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
 </p>
 
 #### Programming & Automation
