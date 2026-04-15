@@ -23,7 +23,7 @@ To get in touch with me :
 
 <b> Email:</b> ritikaparate2002@gmail.com, ritikaparate21@gmail.com.
 
-<b>Contact:</b> 9158545579
+<b>Contact:</b> +91-9158545579
 
       
 ## 🔭 What I'm Currently Working On 
