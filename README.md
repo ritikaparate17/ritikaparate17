@@ -20,8 +20,10 @@ I am a Computer Applications post graduate from GHRCEM, Nagpur. Data Analyst wit
 As a person who loves to learn, I continually attempt to embrace new technologies & practices, as data analytics is a changing universe .
 
 To get in touch with me :
-Email: ritikaparate2002@gmail.com, ritikaparate21@gmail.com
-Contact: 9158545579
+
+<b> Email:</b> ritikaparate2002@gmail.com, ritikaparate21@gmail.com.
+
+<b>Contact:</b> 9158545579
 
       
 ## 🔭 What I'm Currently Working On 
@@ -35,7 +37,7 @@ Contact: 9158545579
 
 ## 🛠️ Technical Skillset
 
-<b>Languages: Python, Database: SQL (MySQL), Data Analysis Tools: Power BI, MS-Excel</b>
+<b>Languages:</b> Python, <b> Database:</b> SQL (MySQL), <b> Data Analysis Tools: </b> Power BI, MS-Excel
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
 #### Data Analysis & Visualization
