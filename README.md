@@ -48,7 +48,7 @@ To get in touch with me :
   <img src="https://img.shields.io/badge/Excel-Intermediate-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
 </p>
 
-#### Programming & Automation
+#### Programming 
 <p>
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
 </p>
