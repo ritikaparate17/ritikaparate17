@@ -12,7 +12,7 @@
   <a href="mailto:ritikaparate2002@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 About Me 
+## About Me 
 I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
 
 I am a Computer Applications post graduate from GHRCEM, Nagpur. Data Analyst with passion for turning raw data into business decisions. I have experience to collect, clean and analyze data and interpret complex datasets using Excel, SQL, Python, Power BI to generate actionable reports. Monitoring trends and forecasting performance and making recommendations that best enhances efficiency and profitability is my work experience. 
@@ -33,15 +33,15 @@ As a person who loves to learn, I continually attempt to embrace new technologie
 
 ## 🛠️ Technical Skillset
 
-*This section uses Shields.io badges. You can customize them or create your own!*
+Languages: Python, Database: SQL (MySQL), Data Analysis Tools: Power BI, MS-Excel
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
 #### Data Analysis & Visualization
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
+  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
+  <img src="https://img.shields.io/badge/Intermediate-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
 </p>
 
 #### Programming & Automation
