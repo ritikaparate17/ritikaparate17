@@ -28,7 +28,7 @@ To get in touch with me :
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project :** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
+- Learning Tableau
 
 ## 🌱 Currently Learning 
 
