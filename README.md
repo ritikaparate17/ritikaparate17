@@ -1,9 +1,9 @@
-## Hi there, I'm Ritika Parate. 
+## Aspiring Data Analyst | Python, Power BI, SQL & Excel | MCA Graduate | Transforming Data into Business Insights 
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Passionate+Data+Analyst+%7C;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -13,18 +13,13 @@
 </p>
 
 ## About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
-
-I am a Computer Applications post graduate from GHRCEM, Nagpur. Data Analyst with passion for turning raw data into business decisions. I have experience to collect, clean and analyze data and interpret complex datasets using Excel, SQL, Python, Power BI to generate actionable reports. Monitoring trends and forecasting performance and making recommendations that best enhances efficiency and profitability is my work experience. 
+MCA graduate and aspiring Data Analyst skilled in Python, SQL, Power BI, and Excel. Passionate about transforming data into actionable insights through analysis, visualization, and dashboard development. Committed to continuous learning and leveraging data to solve real-world business problems.
 
 As a person who loves to learn, I continually attempt to embrace new technologies & practices, as data analytics is a changing universe .
 
 To get in touch with me :
 
-<b> Email:</b> ritikaparate2002@gmail.com, ritikaparate21@gmail.com.
-
-<b>Contact:</b> +91-9158545579
-
+<b> 📧 Email:</b> ritikaparate2002@gmail.com
       
 ## 🔭 What I'm Currently Working On 
 
