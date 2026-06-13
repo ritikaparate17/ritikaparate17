@@ -17,16 +17,14 @@ MCA graduate and aspiring Data Analyst skilled in Python, SQL, Power BI, and Exc
 
 As a person who loves to learn, I continually attempt to embrace new technologies & practices, as data analytics is a changing universe .
 
-To get in touch with me :
+## Career Objective
 
-<b> 📧 Email:</b> ritikaparate2002@gmail.com
-      
-## 🔭 What I'm Currently Working On 
+Seeking Data Analyst opportunities where I can leverage my analytical, visualization, and problem-solving skills to help organizations make informed business decisions through data.
 
-- Learning Tableau
 
 ## 🌱 Currently Learning 
 
+- Tableau
 - Generative AI 
 - Prompt Engineering
 
