@@ -1,12 +1,11 @@
 ## Aspiring Data Analyst | Python, Power BI, SQL & Excel | MCA Graduate | Transforming Data into Business Insights 
 
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Passionate+Data+Analyst+%7C;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
 </div>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
+<!--  links of social media and contact information -->
 <p align="center">
   <a href="https://linkedin.com/in/ritika-parate-406aa2233"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:ritikaparate2002@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
@@ -19,8 +18,8 @@ As a person who loves to learn, I continually attempt to embrace new technologie
 
 ## Career Objective
 
-Seeking Data Analyst opportunities where I can leverage my analytical, visualization, and problem-solving skills to help organizations make informed business decisions through data.
-
+Data Analyst (MCA 2025) with 6 months of experience in KPI dashboard development, business intelligence reporting, and SQL driven data extraction. Skilled in Python, Power BI, and Excel for data cleaning, visualization. Passionate about turning data into decisions that 
+drive measurable outcomes.
 
 ## 🌱 Currently Learning 
 
@@ -45,3 +44,21 @@ Seeking Data Analyst opportunities where I can leverage my analytical, visualiza
 <p>
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
 </p>
+
+## 🎓 Certifications
+- Data Analysis 
+- Introduction to Gen-AI by Google Cloud
+- Introduction to ML by Simplilearn
+- Prompt Engineering by Simplilearn
+
+## 🏆 Awards
+- Best Research Paper Award - ICACTA-25
+- Award for consistent planning- International Conference-2025
+
+## 📊 Projects
+- Mental Health in Tech Survey Analysis |  Python, Power BI, Excel, Streamlit
+- Sentiment Analysis on Social Media Posts  |  Power BI
+- Superstore Sales Analysis  |  Python, Excel, Power BI 
+
+
+
