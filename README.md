@@ -20,8 +20,6 @@ As a person who loves to learn, I continually attempt to embrace new technologie
 
 📧 ritikaparate2002@gmail.com
 
-💼<b> LinkedIn: </b> <a href= "https://linkedin.com/in/ritika-parate-406aa2233"></a>
-
 ## Career Objective
 
 Data Analyst (MCA 2025) with 6 months of experience in KPI dashboard development, business intelligence reporting, and SQL driven data extraction. Skilled in Python, Power BI, and Excel for data cleaning, visualization. Passionate about turning data into decisions that 
