@@ -20,8 +20,7 @@ As a person who loves to learn, I continually attempt to embrace new technologie
 
 📧 ritikaparate2002@gmail.com
 
-💼<b> LinkedIn: </b> linkedin.com/in/ritika-parate-406aa2233
-💼<b> Linktree: </b> linktr.ee/ritika_parate
+💼<b> LinkedIn: </b> <a href= "https://linkedin.com/in/ritika-parate-406aa2233"></a>
 
 ## Career Objective
 
