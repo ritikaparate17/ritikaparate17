@@ -60,9 +60,9 @@ drive measurable outcomes.
 - Award for consistent planning- International Conference-2025
 
 ## 📊 Projects
-- Mental Health in Tech Survey Analysis |  Python, Power BI, Excel, Streamlit
+- Mental Health in Tech Survey Analysis |  Python, Streamlit
 - Sentiment Analysis on Social Media Posts  |  Power BI
-- Superstore Sales Analysis  |  Python, Excel, Power BI 
+- Superstore Sales Analysis  |  Excel 
 
 
 
